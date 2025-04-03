@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: evaluating-idr-replication
+message: >-
+  Replication data and code for the paper "Evaluating
+  interdisciplinary research: Disparate outcomes for topic
+  and knowledge base"
+type: dataset
+authors:
+  - given-names: Sidney
+    family-names: Xiang
+    email: sdxiang@umich.edu
+  - given-names: Daniel M.
+    family-names: Romero
+  - given-names: Misha
+    family-names: Teplitskiy
+url: 'https://github.com/sdxiang/evaluating-idr-replication'
